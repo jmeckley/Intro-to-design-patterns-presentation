@@ -1,0 +1,16 @@
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\demo.exe
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\demo.pdb
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\obj\x86\Debug\demo.exe
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\obj\x86\Debug\demo.pdb
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\FluentValidation.dll
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\FluentValidation.pdb
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\FluentValidation.xml
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\jasonmeckley\Documents\Presentations\2012\03\Harrisburg User Group\demo\demo\bin\Debug\sv\FluentValidation.resources.dll
